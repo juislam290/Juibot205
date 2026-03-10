@@ -38,17 +38,6 @@ module.exports.run = async function ({ api, event }) {
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
 ║ HIDE
 ╚═════════════════════ ✿
-`;
-
-  const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
-  ];
-
-  const randomImg = images[Math.floor(Math.random() * images.length)];
-
   const callback = () => api.sendMessage(
     {
       body: info,
