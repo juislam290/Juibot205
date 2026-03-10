@@ -2,7 +2,7 @@ module.exports.config = {
  name: "info",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "SHAHADAT SAHU",
+ credits: "MD MILON SARKAR",
  description: "Bot information command",
  commandCategory: "For users",
  hide: true,
@@ -34,7 +34,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 
  const msg = `╭⭓ ⪩ 𝐁𝐎𝐓𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 ⪨
 │
-├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭
+├─ 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ─꯭─⃝‌‌মিঁলঁনেঁরঁ ফেঁমাঁসঁ বঁটঁ
 ├─ ☢️ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${config.PREFIX}
 ├─ ♻️ 𝗣𝗿𝗲𝗳𝗶𝘅 𝗕𝗼𝘅 : ${prefix}
 ├─ 🔶 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 : ${commands.size}
@@ -60,19 +60,8 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 ├─ 📣 𝗚𝗿𝗼𝘂𝗽𝘀 : ${totalThreads}
 ├─ 🧿 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿𝘀 : ${totalUsers}
 ╰───────⭓
-
 ❤️ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 🌺
  😍─꯭─⃝‌‌মিঁলঁনেঁরঁ ফেঁমাঁসঁ বঁটঁ😘`;
-
- const imgLinks = [
- "https://i.imgur.com/zqsuJnX.jpeg",
- "https://i.imgur.com/sxSn1K3.jpeg",
- "https://i.imgur.com/wu0iDqS.jpeg",
- "https://i.imgur.com/Huz3nAE.png"
- ];
-
- const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
-
  const callback = () => {
  api.sendMessage({
  body: msg,
