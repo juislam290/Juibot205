@@ -3,7 +3,7 @@ module.exports.config = {
  version: "1.0.0",
  hasPermssion: 0,
  credits: "MD MILON SARKAR ",
- description: "Bot will reply when someone tags any of the admins",
+ description: "Milon, milon,মিলন, Bot will reply when someone tags any of the admins,"@英雄困 @jui islam"
  commandCategory: "Other",
  usages: "@",
  cooldowns: 1
