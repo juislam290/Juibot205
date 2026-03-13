@@ -24,7 +24,7 @@ module.exports.run = async function ({ api, event }) {
 ║ 🎂 𝗔𝗴𝗲 : 23+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : JOB
-║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : DAKHIL
+║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : DAKHIL(SSC)
 ║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : KURIGRAM
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
