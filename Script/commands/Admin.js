@@ -27,7 +27,7 @@ module.exports.run = async function({ api, event }) {
 │ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐥𝐞
 │ 🎂 𝐀𝐠𝐞 : 23+
 │ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝐈𝐬𝐥𝐚𝐦
-│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Dakhil (SSc 2020)
+│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : DAKHIL (SSC)
 │ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : KURIGRAM
 └───────────────⭓
 
