@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "toilet",
   version: "1.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "MD MILON SARKAR",
   description: "Generate a couple banner image using sender and target Facebook UID via Avatar Canvas API",
   commandCategory: "banner",
   usePrefix: true,
@@ -59,7 +59,7 @@ module.exports.run = async function ({ api, event, args, Currencies }) {
 
     return api.sendMessage(
       {
-        body: "বেশি বাল পাকলামির জন্য তোরে টয়লেটে ফেলে দিলাম🤣🤮",
+        body: "বেশি বাল পাকনামির জন্য তোরে টয়লেটে ফেলে দিলাম🤣🤮",
         attachment: fs.createReadStream(imgPath)
       },
       event.threadID,
